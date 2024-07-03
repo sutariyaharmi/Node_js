@@ -1,0 +1,16 @@
+insert into client values('C00003' , 'Chhaya Banker' , 'Mumbai' , 400057 , 'Maharashtra' , 5000);
+
+insert into client values('C00004' , 'Ashwini Joshi' , 'Banglore' , 560001 , 'Karnataka' , 0);
+
+insert into client values('C00005' , 'Hansel Colaco' , 'Mumbai' , 400060 , 'Maharashtra' , 2000);
+
+insert into client values('C00006' , 'Deepak Sharma' , 'Mangalore' , 560050, 'karnataka' , 0);
+
+
+-- select * from client;
+
+
+3a = select Name from client;
+3b = select * from client;
+3c = select Name , City from client;
+3d = select Description from product;
