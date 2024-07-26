@@ -1,0 +1,2 @@
+// enum
+var data;
